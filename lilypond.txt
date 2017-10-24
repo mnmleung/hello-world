@@ -1,0 +1,40 @@
+2017-10-09 11:54:09 Mon
+
+tutorial 4
+
+LilyPond
+% %{ %}
+case sensitive
+
+is
+es
+\language "english"
+s 
+f
+ss
+ff
+
+\time 4/4
+
+\tempo "Andante" or "Prestp" 4=120
+\clef "bass"
+\key d \major
+
+mode: 
+\relative 
+use ' , to move up/down
+
+control + shift + v
+\language autocomplete
+{
+ cs4 d8 ef f g a4
+ f16 g a e a4 d f
+ \time 3/2
+ e2 b f
+ \clef alto
+ \numbericTimeSignature \time 4/4
+ c1
+}
+
+\relative c' middle C
+
