@@ -1,0 +1,5 @@
+2017-11-01 12:49:37 Wed | #06 | Google play store causes hang and reset
+2017-11-01 12:50:41 Wed | #07 | restart hangs (#07)
+2017-11-01 12:55:45 Wed | app | Google Handwriting Input
+2017-11-01 12:59:18 Wed | set | add Chinese (HKG), Russian, French, German
+2017-11-01 12:59:48 Wed | #08 | crashes, reboot
