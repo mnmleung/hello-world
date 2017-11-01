@@ -1,11 +1,10 @@
-	2017-11-01 12:49:37 Wed | #06 | Google play store causes hang and reset
-	2017-11-01 12:50:41 Wed | #07 | restart hangs (#07)
-	2017-11-01 12:55:45 Wed | app | Google Handwriting Input
-	2017-11-01 12:59:18 Wed | set | System > Language & input > add Chinese (HKG), Russian, French, German
-	2017-11-01 12:59:48 Wed | #08 | crashes, reboot
-	2017-11-01 13:02:38 Wed | #09 | reboot restarts itself
-	2017-11-01 13:10:06 Wed | #10 | stays in Google writing in white. Powered off and on
-	2017-11-01 13:17:57 Wed | #11 | hangin in GooglePlay. Phone powered off
-	2017-11-01 13:24:03 Wed | app | enable Google Pinyin Input; update
-	
-	
+2017-11-01 12:49:37 Wed | #06 | Google play store causes hang and reset
+2017-11-01 12:50:41 Wed | #07 | restart hangs (#07)
+2017-11-01 12:55:45 Wed | app | Google Handwriting Input
+2017-11-01 12:59:18 Wed | set | System > Language & input > add Chinese (HKG), Russian, French, German
+2017-11-01 12:59:48 Wed | #08 | crashes, reboot
+2017-11-01 13:02:38 Wed | #09 | reboot restarts itself
+2017-11-01 13:10:06 Wed | #10 | stays in Google writing in white. Powered off and on
+2017-11-01 13:17:57 Wed | #11 | hangin in GooglePlay. Phone powered off
+2017-11-01 13:24:03 Wed | app | enable Google Pinyin Input; update
+2017-11-01 13:25:48 Wed | #12 | crash on invoking messenger
