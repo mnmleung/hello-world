@@ -10,3 +10,8 @@
 2017-11-01 13:25:48 Wed | #12 | crash on invoking messenger
 2017-11-01 13:31:00 Wed | #13 | in messenger, pick language. Phone hangs and reboots itself
 2017-11-01 13:34:29 Wed | #14 | reboot causes another reboot. Phone booted up again.
+2017-11-01 14:06:30 Wed | run | enabled pinyin, received call from Telstra, able to write Chinese to D'Arne
+2017-11-01 14:18:07 Wed | #15 | phone froze and rebooted, hang and shut down
+2017-11-01 14:22:08 Wed | run | during boot up, there is an extra white line under the four colourful balls. Powers itself down
+2017-11-01 14:24:19 Wed | #16 | rebooting but against stuck on four balls then shutdown
+2017-11-01 14:32:37 Wed | run | phone finger print reader hot. Power off via 3 button salute fastboot mode.
