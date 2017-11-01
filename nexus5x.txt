@@ -9,3 +9,4 @@
 2017-11-01 13:24:03 Wed | app | enable Google Pinyin Input; update
 2017-11-01 13:25:48 Wed | #12 | crash on invoking messenger
 2017-11-01 13:31:00 Wed | #13 | in messenger, pick language. Phone hangs and reboots itself
+2017-11-01 13:34:29 Wed | #14 | reboot causes another reboot. Phone booted up again.
