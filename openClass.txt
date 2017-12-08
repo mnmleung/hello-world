@@ -29,6 +29,7 @@ Toreador
 Habanera
 Sequadilla
 La fleur que tu m'avais jete
+Overture
 
 Night and day
 Tea for Two
@@ -50,4 +51,6 @@ Smoke on the water | Deep Purple
 Since you been gone | Rainbow
 I surrender | Rainbow
 You Took The Words Right Out Of My Mouth (Hot Summer Night) | Meat Loaf
+
+Here comes the sun | The Beatles
 
