@@ -1,0 +1,25 @@
+2017-12-30 01:11:11 Sat
+using Atom
+
+alert "Ming!"
+
+for (var i=0; i < 10; i++) {
+  console.log(i);
+}
+
+document.getElementsByTagName("h1")[0].style.color = "#ff0000";
+
+    document.body.addEventListener('click', function () {
+         var myParent = document.getElementById("Banner"); 
+         var myImage = document.createElement("img");
+         myImage.src = 'https://thecatapi.com/api/images/get?format=src&type=gif';
+         myParent.appendChild(myImage);
+         myImage.style.marginLeft = "160px";
+    });
+
+The final exercise did not work for me. 
+I am using Google Chrome on Windows 10, Version 63.0.3239.84 (Official Build) (64-bit)
+Pasting the javascript source code yielded:
+
+The SSL certificate used to load resources from https://thecatapi.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.
+
