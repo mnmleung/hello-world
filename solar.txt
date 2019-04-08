@@ -1,0 +1,43 @@
+AURORA UNO
+
+  Inverter OK
+Sun 24 Mar 17:19
+
+Type OUTD
+P/N -3G04-
+
+S/N 996091
+FW rel. C.0.3.6
+
+E-day   15.9kWh
+$-day    7.9EUR
+
+E-tot  17021kWh
+E-par  17021kWh
+
+Pout      47W
+COSp 1.000
+
+Tboost 37.8 C
+Tinv   39.5 C
+
+Ppk     5042W
+Ppk-Day 2207W
+
+Vgrid    239V
+Vgrid Avg239V
+
+Igrid    0.0A
+Fgrid  50.05Hz
+
+Vin1    316 V
+Iin1     0.1A
+
+Vin2     41 V
+Iin2     0.0A
+
+Pin1      50W
+Pin2       0W
+
+Riso     7.8Mohm
+Ileak      0mA
