@@ -1,7 +1,7 @@
 AURORA UNO
 
   Inverter OK
-Mon 08 Apr 14:47
+Thu 25 Apr 14:07
 
 Type OUTD
 P/N -3G04-
@@ -9,8 +9,8 @@ P/N -3G04-
 S/N 996091
 FW rel. C.0.3.6
 
-E-day   13.9kWh
-$-day    6.9EUR
+E-day   14.5kWh
+$-day    7.2EUR
 
 E-tot  17198kWh
 E-par  17198kWh
