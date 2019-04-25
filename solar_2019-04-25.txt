@@ -12,33 +12,33 @@ FW rel. C.0.3.6
 E-day   14.5kWh
 $-day    7.2EUR
 
-E-tot  17198kWh
-E-par  17198kWh
+E-tot  17395kWh
+E-par  17395kWh
 
-Pout    1500W
+Pout    3218W
 
 COSp 1.000
 
-Tboost 40.1 C
-Tinv   43.4 C
+Tboost 46.7 C
+Tinv   48.8 C
 
 Ppk     5042W
-Ppk-Day 2655W
+Ppk-Day 4768W
 
-Vgrid    244V
-Vgrid Avg244V
+Vgrid    243V
+Vgrid Avg243V
 
-Igrid    6.1A
-Fgrid  50.05Hz
+Igrid   13.3A
+Fgrid  49.94Hz
 
-Vin1    315 V
-Iin1     4.8A
+Vin1    311 V
+Iin1     6.2A
 
-Vin2     40 V
-Iin2     0.0A
+Vin2    205 V
+Iin2     6.6A
 
-Pin1    1529W
-Pin2       0W
+Pin1    1952W
+Pin2    1384W
 
-Riso     8.1Mohm
+Riso    20.0Mohm
 Ileak      0mA
