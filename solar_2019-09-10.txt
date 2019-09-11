@@ -1,7 +1,7 @@
 AURORA UNO
 
   Inverter OK
-Thu 25 Apr 14:07
+Tue 10 Sep 15:33
 
 Type OUTD
 P/N -3G04-
@@ -9,36 +9,36 @@ P/N -3G04-
 S/N 996091
 FW rel. C.0.3.6
 
-E-day   14.5kWh
-$-day    7.2EUR
+E-day   23.0kWh
+$-day   11.5EUR
 
-E-tot  17395kWh
-E-par  17395kWh
+E-tot  19900kWh
+E-par  19900kWh
 
-Pout    3218W
+Pout    1800W
 
 COSp 1.000
 
-Tboost 46.7 C
-Tinv   48.8 C
+Tboost 38.4 C
+Tinv   39.6 C
 
 Ppk     5042W
-Ppk-Day 4768W
+Ppk-Day 3909W
 
-Vgrid    243V
-Vgrid Avg243V
+Vgrid    241V
+Vgrid Avg241V
 
-Igrid   13.3A
-Fgrid  49.94Hz
+Igrid    7.5A
+Fgrid  49.97Hz
 
-Vin1    311 V
-Iin1     6.2A
+Vin1    299 V
+Iin1     2.9A
 
-Vin2    205 V
-Iin2     6.6A
+Vin2    224 V
+Iin2     4.1A
 
-Pin1    1952W
-Pin2    1384W
+Pin1     893W
+Pin2     993W
 
 Riso    20.0Mohm
 Ileak      0mA
